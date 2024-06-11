@@ -1,1 +1,2 @@
 I write sth to my local repository
+I change local again second line
